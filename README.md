@@ -1,35 +1,27 @@
-# 🧙 CI/CD Dungeon Escape
+# CI/CD Dungeon Escape 🏰🐉
 
-A Python CLI game that simulates common CI/CD pipeline failures in a fun, narrative way.  
-Players navigate a dungeon by choosing best-practice DevOps solutions to stabilize the pipeline and escape.  
+**Complete All 10 Stages to Earn Your CI/CD Hero Title 🏆**
 
-This project combines **hands-on DevOps concepts** with a **light, engaging story**, making learning CI/CD interactive and memorable.
+Welcome to **CI/CD Dungeon Escape**, a Python-based dungeon crawler game that teaches CI/CD and DevOps concepts while you battle monsters!  
 
----
-
-## 🎮 Features
-
-- 4 stages representing key CI/CD pipeline points:
-  1. Build Failure
-  2. Test Failure
-  3. Docker Build Failure
-  4. Deployment Failure
-- Subtle humor in game narrative while explaining technical concepts
-- CLI-based gameplay for simplicity and portability
-- Professional DevOps practices: Python, testing, Docker, and GitHub Actions
+Test your skills, learn best practices, and survive 10 challenging stages of CI/CD horrors.
 
 ---
 
-## 🚀 Getting Started
+## **Game Overview**
 
-### Prerequisites
-- Python 3.11+
-- Git
-- Optional: Docker (to run in a container)
+- **10 stages** filled with monsters and technical challenges  
+- **Hints** appear after **5 seconds** if you’re stuck  
+- **Multiple attempts** per stage (3 attempts)  
+- **Scoreboard** tracks your progress  
+- Fun **ASCII monsters**: Goblins, Spiders, Wolves, Fluffy the Cerberus, and a final Dragon boss!  
+- Colored feedback for correct ✅ / wrong ❌ answers  
 
-### Installation
+---
 
-Clone the repository:
+## **How to Play**
+
+1. **Clone the repository**:
 
 ```bash
 git clone https://github.com/MonicaCheely/cicd-dungeon-escape.git
