@@ -1,7 +1,7 @@
 # CI/CD Dungeon Escape 🏰🐉
 
 <p align="center">
-  <img src="thumbnail.png" width="900">
+  <img src="images/thumbnail.png" width="900">
 </p>
 
 **Complete All 10 Stages to Earn Your CI/CD Hero Title 🏆**
